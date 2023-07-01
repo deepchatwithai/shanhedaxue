@@ -74,7 +74,7 @@ setTimeout(function () {
 		myCan.drawImage(imgt2, 60, 130, 100, 100);
 	}
     var imgt3 = new Image();
-	imgt3.src = "https://gitee.com/shehuixinrenicu/forshu/blob/master/img/shu.png";
+	imgt3.src = "https://gitee.com/shehuixinrenicu/forshu/blob/master/img/shu.svg";
 
 	imgt3.onload = function () {
 		myCan.drawImage(imgt3, 60, 600, 100, 100);
