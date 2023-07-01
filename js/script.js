@@ -15,7 +15,7 @@ but.onclick = function () {
 	myCan.beginPath();
 	myCan.font = "22px Arial";
 	myCan.fillText(txt.value+" 同学：", 140, 372);
-	drawText("经山河四省招生委员会批准你已被我院 "+pr.value+"专业录取。请持此通知书到我院报道。", 128, 410, 358);
+	drawText("经山河大学招生委员会批准，你已被我校 "+pr.value+"专业录取。请持此通知书于2023年8月15日到我院报道。", 128, 410, 358);
 	myCan.fillText(da.value, 350, 660);
 	myCan.closePath();
 	myCan.font = "bold 60px serif";
