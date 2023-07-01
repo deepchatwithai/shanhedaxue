@@ -74,7 +74,7 @@ setTimeout(function () {
 		myCan.drawImage(imgt2, 60, 130, 100, 100);
 	}
     var imgt3 = new Image();
-	imgt3.src = "https://github.com/deepchatwithai/shanhedaxue/assets/129534544/3d1f128f-9052-4a6f-85fd-6c2592ce5757";
+	imgt3.src = "https://gitee.com/shehuixinrenicu/forshu/blob/master/img/shu.png";
 
 	imgt3.onload = function () {
 		myCan.drawImage(imgt3, 60, 600, 100, 100);
